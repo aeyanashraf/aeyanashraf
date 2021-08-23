@@ -5,13 +5,17 @@
     <a href="https://www.linkedin.com/in/aeyanashraf/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/aeyanashraf" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/aeyanashraf/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <br/>
+<br/>
+  
+  A Machine Learning/Deep Learning Research undergraduate passionate about cutting edge technology and solving real world problems
 </h5>
 
-A Machine Learning/Deep Learning Research undergraduate passionate about cutting edge technology and solving real world problems
+
 <br/>
 <br/>
 <p align="center">
-  <br>
+  ABOUT ME-
   <br>
   🔬 I'm currently studying for a bachelor's degree in Computer Engineering from Zakir Husain College of Engineering And Technology, Aligarh Muslim University,
   <br>
