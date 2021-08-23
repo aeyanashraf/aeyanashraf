@@ -24,6 +24,8 @@
   💻 I love literature work related to Research rather than Coding.
   <br>
   📫 Reach me: <a href="mailto: aeyanashraf@gmail.com">aeyanashraf@gmail.com</a>
+  <br>
+  🌎 Visit my Portfolio/CV/Projects <a href="https://aeyanashraf.github.io/">aeyanashraf.github.io/</a>
 </p>
 
 
