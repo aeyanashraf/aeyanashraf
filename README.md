@@ -24,7 +24,7 @@ A Machine Learning/Deep Learning Research undergraduate passionate about cutting
 
 
 ### 🔨 Languages and Tools:
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/color/48/000000/dart.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img src="https://img.icons8.com/color/48/000000/opencv.png"/><img src="https://img.icons8.com/color/48/000000/flutter.png"/><img src="https://img.icons8.com/color/48/000000/latex.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/color/48/000000/dart.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img src="https://img.icons8.com/color/48/000000/opencv.png"/><img src="https://img.icons8.com/color/48/000000/flutter.png"/><img src="https://img.icons8.com/color/48/000000/latex.png"/>
 
 <br>
 
